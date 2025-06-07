@@ -215,7 +215,7 @@
       // Show both character and breed
       const resultDiv = document.getElementById("result");
       resultDiv.innerHTML = `
-        <p><strong>Character:</strong> ${character.name} (${model})</p>
+        <p><strong>Character:</strong> ${character.name} </p>
         <p><strong>Breed:</strong> ${breed}</p>
       `;
     }
