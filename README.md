@@ -24,9 +24,9 @@
     // Full list of Genshin characters with model sizes and image URLs from Wish Artworks
     // Image URLs are from the wiki's Wish Gallery, direct links to images
     const genshinCharacters = [
-      { name: "Albedo", model: "Medium Male", image: "https://genshin-impact.fandom.com/wiki/File:Albedo_Wish.png" },
-      { name: "Alhaitham", model: "Medium Male", image: "https://genshin-impact.fandom.com/wiki/File:Alhaitham_Wish.png" },
-      { name: "Aloy", model: "Medium Female", image: "https://genshin-impact.fandom.com/wiki/File:Aloy_Wish.png" },
+      { name: "Albedo", model: "Medium Male", image: "https://static.wikia.nocookie.net/gensin-impact/images/8/8f/Albedo_Wish.png/revision/latest?cb=20231214213308" },
+      { name: "Alhaitham", model: "Medium Male", image: "https://static.wikia.nocookie.net/gensin-impact/images/9/90/Alhaitham_Wish.png/revision/latest?cb=20231214213526" },
+      { name: "Aloy", model: "Medium Female", image: "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Aloy_Wish.png/revision/latest?cb=20231214213630" },
    
     ];
 
