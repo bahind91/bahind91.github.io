@@ -184,11 +184,32 @@
     ];
 
     const ponyBreeds = [
-      "Australian Pony", "British Riding Pony", "Chincoteague Pony", "Connemara Pony",
-      "Dartmoor Pony", "Exmoor Pony", "Falabella", "Fell Pony",
-      "Haflinger", "Highland Pony", "Hokkaido Pony", "Icelandic Pony",
-      "Kerry Bog Pony", "Kiso Pony", "New Forest Pony", "Norfolk Pony",
-      "Pony of the Americas", "Shetland Pony", "Sokoke Pony", "Welsh Pony"
+      "American Shetland Pony", "American Walking Pony", "Anadolu Pony", "Assateague",
+      "Australian Pony", "Australian Riding Pony", "Bali Pony",
+      "Basuto pony, also spelled Basotho pony", "Batak Pony", "Bhirum pony",
+      "Bosnian Mountain Horse", "British Spotted Pony", "Burmese pony",
+      "Camargue horse see horse section", "Canadian rustic pony",
+      "Carpathian Pony, see Hucul Pony", "Caspian horse see horse section",
+      "Chincoteague Pony", "Chinese Guoxia", "Coffin Bay Pony", "Connemara pony",
+      "Czechoslovakian Small Riding Pony", "Dales Pony", "Danish Sport Pony",
+      "Dartmoor pony", "Deli pony", "Dülmen Pony", "Eriskay pony", "Esperia Pony",
+      "Exmoor pony", "Falabella see horse section", "Faroe pony", "Fell Pony",
+      "Flores pony, see Timor Pony", "French Saddle Pony", "Galician Pony",
+      "Garrano", "Gayoe", "German Riding Pony, Deutsche Reitpony",
+      "German Classic Pony", "Gotland Pony, Skogsruss", "Guizhou pony",
+      "Gǔo-xìa pony, see Chinese Guoxia", "Hackney pony", "Haflinger see horse section",
+      "Highland pony", "Hokkaido Pony", "Hucul Pony, also called Huțul Pony",
+      "Icelandic horse see horse section", "Java Pony", "Karelian pony", "Kerry bog pony",
+      "Lac La Croix Indian Pony", "Landais Pony", "Lijiang pony", "Lundy Pony",
+      "Manipuri Pony", "Merens Pony, also called Ariegeois pony, see Merens horse",
+      "Miniature horse, see horse section", "Miyako Pony", "Namaqua Pony", "Narym Pony",
+      "New Forest pony", "Newfoundland pony", "Peneia Pony", "Petiso Argentino",
+      "Pindos Pony", "Poney du Logone, also called Poney Mousseye", "Pony of the Americas",
+      "Quarter pony", "Sable Island Pony", "Sandalwood Pony", "Shetland pony",
+      "Skyros Pony", "Sumba and Sumbawa Pony", "Tibetan Pony", "Timor Pony", "Welara",
+      "Welsh Pony (sections A, B and C)", "Western Sudan pony"
+![image](https://github.com/user-attachments/assets/1977adbe-5fc8-4abe-abdb-ffa0b09ec71b)
+
     ];
 
     function generateName() {
